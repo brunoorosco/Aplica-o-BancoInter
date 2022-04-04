@@ -1,5 +1,8 @@
-# dio-BancoInter
+# Aplicação-BancoInter
 
-Bootcamp da DIO-Banco Inter
+Bootcamp Digital Inovation, aplicação:
 
-aplicação com autenticação, recebimento e pagamento via PIX
+### construir uma FrontEnd e BackEnd do Banco Inter.
+
+#### aplicação com autenticação;
+#### recebimento e pagamento via PIX.
